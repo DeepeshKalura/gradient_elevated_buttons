@@ -1,5 +1,3 @@
-library gradient_elevated_buttons;
-
 import 'package:flutter/material.dart';
 
 /// A customizable elevated button with a gradient background and stroke.

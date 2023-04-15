@@ -1,4 +1,4 @@
-# gradient_elevated_buttons
+# gradients_elevations_buttons
 A Flutter package that provides a customizable ElevatedButton with a gradient background and stroke.
 
 ## Features

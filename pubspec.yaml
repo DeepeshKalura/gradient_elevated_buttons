@@ -1,4 +1,4 @@
-name: gradient_elevated_buttons
+name: gradients_elevation_buttons
 description: A Flutter package that provides a custom ElevatedButton with a gradient background and stroke.
 version: 0.0.1
 repository: https://github.com/DeepeshKalura/gradient_elevated_buttons
